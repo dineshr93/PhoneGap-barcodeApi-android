@@ -1,0 +1,15 @@
+Somw usefull commands
+
+1. cordova create barcode com.example.barcode "BarcodeScanner"
+2. git clone https://github.com/wildabeast/BarcodeScanner.git plugins\com.phonegap.plugins.barcodescanner
+3. cordova plugin add /playground/pp/barcode/pluginscom.phonegap.plugins.barcodescanner
+4. cordova platform add android
+
+
+Adding android and java paths
+
+
+
+
+
+
